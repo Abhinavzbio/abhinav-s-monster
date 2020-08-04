@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Abhinac's%20monsters/static/css/main.188fa4e7.chunk.css",
-    "main.js": "/Abhinac's%20monsters/static/js/main.4e64373d.chunk.js",
-    "main.js.map": "/Abhinac's%20monsters/static/js/main.4e64373d.chunk.js.map",
-    "runtime-main.js": "/Abhinac's%20monsters/static/js/runtime-main.d029122b.js",
-    "runtime-main.js.map": "/Abhinac's%20monsters/static/js/runtime-main.d029122b.js.map",
-    "static/js/2.b4309f00.chunk.js": "/Abhinac's%20monsters/static/js/2.b4309f00.chunk.js",
-    "static/js/2.b4309f00.chunk.js.map": "/Abhinac's%20monsters/static/js/2.b4309f00.chunk.js.map",
-    "index.html": "/Abhinac's%20monsters/index.html",
-    "precache-manifest.448c18c2c74b88b1b34b22720d0f791b.js": "/Abhinac's%20monsters/precache-manifest.448c18c2c74b88b1b34b22720d0f791b.js",
-    "service-worker.js": "/Abhinac's%20monsters/service-worker.js",
-    "static/css/main.188fa4e7.chunk.css.map": "/Abhinac's%20monsters/static/css/main.188fa4e7.chunk.css.map",
-    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/Abhinac's%20monsters/static/js/2.b4309f00.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Abhinac's%20monsters/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Abhinav-s-monsters/static/css/main.188fa4e7.chunk.css",
+    "main.js": "/Abhinav-s-monsters/static/js/main.52e15f36.chunk.js",
+    "main.js.map": "/Abhinav-s-monsters/static/js/main.52e15f36.chunk.js.map",
+    "runtime-main.js": "/Abhinav-s-monsters/static/js/runtime-main.acabc51d.js",
+    "runtime-main.js.map": "/Abhinav-s-monsters/static/js/runtime-main.acabc51d.js.map",
+    "static/js/2.b4309f00.chunk.js": "/Abhinav-s-monsters/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/Abhinav-s-monsters/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/Abhinav-s-monsters/index.html",
+    "precache-manifest.e84d8a4c73d140beadd3b8988ed0c8b7.js": "/Abhinav-s-monsters/precache-manifest.e84d8a4c73d140beadd3b8988ed0c8b7.js",
+    "service-worker.js": "/Abhinav-s-monsters/service-worker.js",
+    "static/css/main.188fa4e7.chunk.css.map": "/Abhinav-s-monsters/static/css/main.188fa4e7.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/Abhinav-s-monsters/static/js/2.b4309f00.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Abhinav-s-monsters/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d029122b.js",
+    "static/js/runtime-main.acabc51d.js",
     "static/js/2.b4309f00.chunk.js",
     "static/css/main.188fa4e7.chunk.css",
-    "static/js/main.4e64373d.chunk.js"
+    "static/js/main.52e15f36.chunk.js"
   ]
 }
